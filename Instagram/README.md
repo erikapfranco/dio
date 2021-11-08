@@ -3,7 +3,7 @@ Página inicial de login no Instagram criada com intuito de fixar conteúdos de 
 
 
 ## Linguagens utilizadas
-Os projetos nesse repositório foram criados utilizando as seguintes linguagens:
+Este projeto foi criado utilizando as seguintes linguagens:
 - HTML
 - CSS
 
